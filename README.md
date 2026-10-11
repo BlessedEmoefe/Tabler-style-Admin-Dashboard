@@ -2,6 +2,10 @@
 
 A responsive admin dashboard inspired by the Tabler layout. It includes sign-in, a protected shell, and a dashboard of stats, an activity chart, a commits table, and donut charts.
 
+## Live demo
+
+[https://tabler-style-admin-dashboard.netlify.app/](https://tabler-style-admin-dashboard.netlify.app/)
+
 ## Overview
 
 The app is a React single-page dashboard. Visitors sign in with any email and password, then land on a home page that loads its data through Redux Saga. The session is kept in the browser so a refresh stays signed in.
